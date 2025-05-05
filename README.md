@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Overview
 
 I'm Hridya Umesh — someone who's deeply passionate about cloud computing and big data technologies. I love building data-driven solutions that make an impact, especially when it involves streaming, transforming, and analyzing large volumes of information in real-time.
 
