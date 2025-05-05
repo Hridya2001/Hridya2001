@@ -35,7 +35,10 @@ Feel free to explore my repositories, and let me know if you have any questions 
 
 - **Languages**: Python, SQL
 - **Tools & Technologies**: 
-  - AWS (S3, Lambda, Glue, RDS, EC2, ECS, SQS)
-  - Kafka, Spark, PostgreSQL
+  - AWS
+  - Networking
+  - Cloud security
+  - Linux
+  - Kafka, Spark, PostgreSQL, MySql
   - Streamlit
   - Apache Hadoop
