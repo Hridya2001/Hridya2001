@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Overview
 
-Hi there 👋 I'm Hridya Umesh — someone who's deeply passionate about cloud computing and big data technologies. I love building data-driven solutions that make an impact, especially when it involves streaming, transforming, and analyzing large volumes of information in real-time.
+I'm Hridya Umesh — someone who's deeply passionate about cloud computing and big data technologies. I love building data-driven solutions that make an impact, especially when it involves streaming, transforming, and analyzing large volumes of information in real-time.
 
 On my GitHub, you’ll find projects that reflect my interest in AWS, data pipelines, and working with tools like Kafka, Spark, and Python. I'm always exploring new technologies and ways to optimize data workflows for better efficiency and insights.
 
@@ -24,7 +24,7 @@ Thanks for stopping by! 😊
 
 Feel free to explore my repositories, and let me know if you have any questions or suggestions!
 
-##📫 Connect with Me
+## 📫 Connect with Me
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/hridya-umesh-860078319)
 
@@ -32,7 +32,7 @@ Feel free to explore my repositories, and let me know if you have any questions 
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:hridyaumesh2@gmail.com)
 
 
-##🌱 Languages & Tools
+## 🌱 Languages & Tools
 
 - **Languages**: Python, SQL
 - **Tools & Technologies**: 
