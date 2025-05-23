@@ -1,4 +1,4 @@
-## About Me
+## 🙋‍♀️ About Me
 I'm **Hridya Umesh**, a cloud computing and big data enthusiast passionate about building scalable data-driven solutions.
 
 - 🔍 I enjoy solving real-world problems using technologies like **Kafka**, **Spark**, **AWS**, and **PostgreSQL**.  
