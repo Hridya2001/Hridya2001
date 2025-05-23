@@ -25,7 +25,7 @@ Hi there 👋 — I'm **Hridya Umesh**, a cloud computing and big data enthusias
 ---
 <!-- README.md layout using HTML and Devicon CDN badges -->
 
-<h2>👨‍💻 Languages</h2>
+<h2> Languages</h2>
 <table>
   <tr>
     <td align="center" width="96">
@@ -39,7 +39,7 @@ Hi there 👋 — I'm **Hridya Umesh**, a cloud computing and big data enthusias
   </tr>
 </table>
 
-<h2>🗄️ Databases</h2>
+<h2> Databases</h2>
 <table>
   <tr>
     <td align="center" width="96">
@@ -53,7 +53,7 @@ Hi there 👋 — I'm **Hridya Umesh**, a cloud computing and big data enthusias
   </tr>
 </table>
 
-<h2>☁️ Big Data & Cloud Tools</h2>
+<h2> Big Data & Cloud Tools</h2>
 <table>
   <tr>
     <td align="center" width="96">
@@ -71,7 +71,7 @@ Hi there 👋 — I'm **Hridya Umesh**, a cloud computing and big data enthusias
   </tr>
 </table>
 
-<h2>📊 Visualization</h2>
+<h2> Visualization</h2>
 <table>
   <tr>
     <td align="center" width="96">
@@ -85,7 +85,7 @@ Hi there 👋 — I'm **Hridya Umesh**, a cloud computing and big data enthusias
   </tr>
 </table>
 
-<h2>🛠️ DevOps & Others</h2>
+<h2> DevOps & Others</h2>
 <table>
   <tr>
     <td align="center" width="96">
