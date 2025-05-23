@@ -91,11 +91,23 @@ I'm **Hridya Umesh**, a cloud computing and big data enthusiast passionate about
 
 <!-- status -->
 ## My GitHub Stats
-<p align="center">
-  <img src="https://img.shields.io/github/stars/Hridya2001?style=for-the-badge&label=Total%20Stars" />
-  <img src="https://img.shields.io/github/commit-activity/y/Hridya2001?style=for-the-badge&label=Total%20Commits" />
-  <img src="https://img.shields.io/github/issues-pr/Hridya2001?style=for-the-badge&label=Total%20PRs" />
-</p>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/Hridya2001?style=for-the-badge&label=Total%20Stars" /><br>
+        <img src="https://img.shields.io/github/commit-activity/y/Hridya2001?style=for-the-badge&label=Total%20Commits" /><br>
+        <img src="https://img.shields.io/github/issues-pr/Hridya2001?style=for-the-badge&label=Total%20PRs" />
+      </p>
+    </td>
+    <td>
+      <img width="400" 
+           src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hridya2001&layout=compact&theme=default" 
+           alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
 
 
 ## Streak Stats
