@@ -20,7 +20,6 @@ Hi there 👋 — I'm **Hridya Umesh**, a cloud computing and big data enthusias
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 <!-- Databases -->
-#### 🗄️ Databases
 <h3>📊 Databases</h3>
 <table>
   <tr>
