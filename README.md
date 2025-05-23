@@ -1,44 +1,43 @@
-## Hi there 👋
+Hi there 👋 — I'm **Hridya Umesh**, a cloud computing and big data enthusiast passionate about building scalable data-driven solutions.
 
-<!--
-**Hridya2001/Hridya2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 I enjoy solving real-world problems using technologies like **Kafka**, **Spark**, **AWS**, and **PostgreSQL**.  
+💡 Currently focused on data pipelines, real-time data streaming, and cloud-native applications.  
+🌱 Always exploring new tools to enhance data processing and infrastructure performance.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/your-link/)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:your.email@example.com)
 
-I'm Hridya Umesh — someone who's deeply passionate about cloud computing and big data technologies. I love building data-driven solutions that make an impact, especially when it involves streaming, transforming, and analyzing large volumes of information in real-time.
+---
 
-On my GitHub, you’ll find projects that reflect my interest in AWS, data pipelines, and working with tools like Kafka, Spark, and Python. I'm always exploring new technologies and ways to optimize data workflows for better efficiency and insights.
+### 💻 Languages & Tools
 
-Thanks for stopping by! 😊
+#### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 
-Feel free to explore my repositories, and let me know if you have any questions or suggestions!
+#### Big Data & Cloud Tools
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-## 📫 Connect with Me
+#### DevOps & Others
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/hridya-umesh-860078319)
+---
 
- 
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:hridyaumesh2@gmail.com)
+### 📊 GitHub Stats
 
+![Hridya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hridya2001&show_icons=true&theme=radical)
 
-## 🌱 Languages & Tools
+---
 
-- **Languages**: Python, SQL
-- **Tools & Technologies**: 
-  - AWS
-  - Networking
-  - Cloud security
-  - Linux
-  - Kafka, Spark, PostgreSQL, MySql
-  - Streamlit
-  - Apache Hadoop
+Thanks for visiting! 😊
+
