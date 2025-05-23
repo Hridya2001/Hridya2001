@@ -92,15 +92,9 @@ I'm **Hridya Umesh**, a cloud computing and big data enthusiast passionate about
 ## My GitHub Stats
 <table>
   <tr>
-   
-
-
-- **Total Stars Earned:** 4
-- **Total Commits (2025):** 277
-- **Total PRs:** 1
-
-
-    
+    <td>
+      <img width="450" src="https://github-readme-stats.vercel.app/api?username=Hridya2001&show_icons=true&theme=default&hide_title=false&rank_icon=none" alt="GitHub Stats" />
+    </td>  
     <td>
       <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hridya2001&layout=compact&theme=default" alt="Top Languages" />
     </td>
