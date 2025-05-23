@@ -95,8 +95,8 @@ I'm **Hridya Umesh**, a cloud computing and big data enthusiast passionate about
   <tr>
     <td>
       <img width="450" 
-           src="https://github-readme-stats.vercel.app/api?username=Hridya2001&show_icons=true&hide=issues,contribs&rank_icon=none" 
-           alt="Hridya's GitHub Stats" />
+     src="https://github-readme-stats.vercel.app/api?username=Hridya2001&show_icons=true&hide=issues,contribs&rank_icon=none&theme=radical" 
+     alt="Hridya's GitHub Stats" />
     </td>
     <td>
       <img width="400" 
