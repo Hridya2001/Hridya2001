@@ -33,11 +33,28 @@ Hi there 👋 — I'm **Hridya Umesh**, a cloud computing and big data enthusias
 
 ---
 
-### 📊 GitHub Stats
+## 📊 My GitHub Stats
 
-![Hridya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hridya2001&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hridya2001&show_icons=true&theme=radical&hide_title=false" alt="Hridya's GitHub Stats" />
+</div>
 
 ---
+
+## ✨ Top Languages Card
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hridya2001&layout=compact&theme=radical" alt="Hridya's Top Languages" />
+</div>
+
+---
+
+## 🔥 Streak Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hridya2001&theme=radical" alt="Hridya's GitHub Streak" />
+</div>
+
 
 Thanks for visiting! 😊
 
