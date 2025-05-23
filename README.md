@@ -88,17 +88,14 @@ I'm **Hridya Umesh**, a cloud computing and big data enthusiast passionate about
 
 ---
 
-
 <!-- status -->
 ## My GitHub Stats
 <table>
   <tr>
     <td>
-      <p align="center">
-        <img src="https://img.shields.io/github/stars/Hridya2001?style=for-the-badge&label=Total%20Stars" /><br>
-        <img src="https://img.shields.io/github/commit-activity/y/Hridya2001?style=for-the-badge&label=Total%20Commits" /><br>
-        <img src="https://img.shields.io/github/issues-pr/Hridya2001?style=for-the-badge&label=Total%20PRs" />
-      </p>
+      <img width="450" 
+           src="https://github-readme-stats.vercel.app/api?username=Hridya2001&show_icons=true&hide=issues,contribs&rank_icon=hide" 
+           alt="Hridya's GitHub Stats" />
     </td>
     <td>
       <img width="400" 
@@ -107,8 +104,6 @@ I'm **Hridya Umesh**, a cloud computing and big data enthusiast passionate about
     </td>
   </tr>
 </table>
-
-
 
 ## Streak Stats
 <div align="center"> <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=Hridya2001&theme=default" alt="Hridya's GitHub Streak" /> </div>
