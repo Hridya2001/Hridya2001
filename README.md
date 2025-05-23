@@ -102,4 +102,4 @@ I'm **Hridya Umesh**, a cloud computing and big data enthusiast passionate about
 </table>
 
 ## Streak Stats
-<div align="center"> <img width="640" src="https://github-readme-streak-stats.herokuapp.com/?user=Hridya2001&theme=default" alt="Hridya's GitHub Streak" /> </div>
+<div align="center"> <img width="320" src="https://github-readme-streak-stats.herokuapp.com/?user=Hridya2001&theme=default" alt="Hridya's GitHub Streak" /> </div>
