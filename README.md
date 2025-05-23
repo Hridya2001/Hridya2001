@@ -7,8 +7,20 @@ Hi there 👋 — I'm **Hridya Umesh**, a cloud computing and big data enthusias
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/your-link/)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:your.email@example.com)
+<!-- Gmail Icon -->
+<a href="mailto:your-email@gmail.com" target="_blank" rel="noopener noreferrer" title="Email me">
+  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="#EA4335">
+    <path d="M20 4H4C2.9 4 2 4.9 2 6v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/>
+  </svg>
+</a>
+
+<!-- LinkedIn Icon -->
+<a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer" title="LinkedIn Profile">
+  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="#0A66C2">
+    <path d="M19 3A2 2 0 0121 5v14a2 2 0 01-2 2H5a2 2 0 01-2-2V5a2 2 0 012-2h14zm-9.5 14V10H7v7h2.5zm-1.25-8.21a1.44 1.44 0 11.01-2.89 1.44 1.44 0 01-.01 2.89zM17 17v-3.5a2.5 2.5 0 00-5 0V17h2.5v-3a.5.5 0 01.5-.5 1 1 0 011 1V17H17z"/>
+  </svg>
+</a>
+
 
 ---
 <!-- README.md layout using HTML and Devicon CDN badges -->
