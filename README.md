@@ -89,7 +89,7 @@ I'm **Hridya Umesh**, a cloud computing and big data enthusiast passionate about
 ---
 
 <!-- status -->
-
+## My GitHub Stats
 <table>
   <tr>
     <td>
@@ -101,10 +101,5 @@ I'm **Hridya Umesh**, a cloud computing and big data enthusiast passionate about
   </tr>
 </table>
 
-## 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hridya2001&theme=radical" alt="Hridya's GitHub Streak" />
-</div>
-
-
+## Streak Stats
+<div align="center"> <img width="640" src="https://github-readme-streak-stats.herokuapp.com/?user=Hridya2001&theme=default" alt="Hridya's GitHub Streak" /> </div>
