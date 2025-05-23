@@ -6,13 +6,6 @@ I'm **Hridya Umesh**, a cloud computing and big data enthusiast passionate about
 
 ---
 
-
-### 📫 Connect with Me
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hridyaumesh2@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hridya-umesh-860078319/)
-
----
 <!-- README.md layout using HTML and Devicon CDN badges -->
 
 <h2> Languages</h2>
@@ -95,7 +88,7 @@ I'm **Hridya Umesh**, a cloud computing and big data enthusiast passionate about
 
 ---
 
-
+<!-- status -->
 
 <table>
   <tr>
