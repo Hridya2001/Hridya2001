@@ -93,13 +93,13 @@ I'm **Hridya Umesh**, a cloud computing and big data enthusiast passionate about
 <table>
   <tr>
     <td>
-      <img width="320" src="https://github-readme-stats.vercel.app/api?username=Hridya2001&show_icons=true&theme=default&hide_title=false&rank_icon=none" alt="GitHub Stats" />
+      <img width="450" src="https://github-readme-stats.vercel.app/api?username=Hridya2001&show_icons=true&theme=default&hide_title=false&rank_icon=none" alt="GitHub Stats" />
     </td>
     <td>
-      <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hridya2001&layout=compact&theme=default" alt="Top Languages" />
+      <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hridya2001&layout=compact&theme=default" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 ## Streak Stats
-<div align="center"> <img width="320" src="https://github-readme-streak-stats.herokuapp.com/?user=Hridya2001&theme=default" alt="Hridya's GitHub Streak" /> </div>
+<div align="center"> <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=Hridya2001&theme=default" alt="Hridya's GitHub Streak" /> </div>
