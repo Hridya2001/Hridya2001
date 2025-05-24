@@ -63,7 +63,7 @@ Hii.... I'm **Hridya Umesh**, a cloud computing and big data enthusiast passiona
       <br>Streamlit
     </td>
     <td align="center" width="96">
-      <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="48"/>
+      <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="48" height='48'/>
       <br>Matplotlib
     </td>
   </tr>
