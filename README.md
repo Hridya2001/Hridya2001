@@ -1,9 +1,4 @@
-<p align="center">
-  <strong><span style="color:blue; font-size:30px;">Hii.... I'm HRIDYA UMESH</span></strong>
-</p>
-
-
-&nbsp;
+<h1 align="center"><strong>HII.... I'M HRIDYA UMESH</strong></h1>
 
 I'm a cloud computing and big data enthusiast passionate about building scalable data-driven solutions.
 &nbsp;
