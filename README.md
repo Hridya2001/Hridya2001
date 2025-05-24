@@ -1,5 +1,5 @@
 <p align="center">
-  <strong><span style="color:blue; font-size:24px;">Hii.... I'm Hridya Umesh</span></strong>
+  <strong><span style="color:blue; font-size:30px;">Hii.... I'm HRIDYA UMESH</span></strong>
 </p>
 
 
@@ -20,7 +20,7 @@ I'm a cloud computing and big data enthusiast passionate about building scalable
 
 &nbsp;
 
-- 🔗 Connect with me: [Here](https://www.linkedin.com/in/hridya-umesh-860078319)
+- 🔗 Connect with me [Here](https://www.linkedin.com/in/hridya-umesh-860078319)
 
 ---
 
