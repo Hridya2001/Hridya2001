@@ -49,7 +49,7 @@ Hii.... I'm **Hridya Umesh**, a cloud computing and big data enthusiast passiona
       <br>Spark
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="48"/>
       <br>AWS
     </td>
   </tr>
@@ -63,7 +63,7 @@ Hii.... I'm **Hridya Umesh**, a cloud computing and big data enthusiast passiona
       <br>Streamlit
     </td>
     <td align="center" width="96">
-      <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="40"/>
+      <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="48"/>
       <br>Matplotlib
     </td>
   </tr>
