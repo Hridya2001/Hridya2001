@@ -94,9 +94,8 @@ I'm **Hridya Umesh**, a cloud computing and big data enthusiast passionate about
 <table>
   <tr>
     <td>
-      <img width="450" 
+      <img width="400" 
      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hridya2001&theme=transparent" />
-     alt="Hridya's GitHub Stats" />
     </td>
     <td>
       <img width="400" 
