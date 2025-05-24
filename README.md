@@ -14,7 +14,7 @@ I'm a cloud computing and big data enthusiast passionate about building scalable
 - 🌱 Always exploring new tools to enhance data processing and infrastructure performance.  
 
 
-- 🔗 Connect with me [Here](https://www.linkedin.com/in/hridya-umesh-860078319)
+- 🔗 Connect with me [here](https://www.linkedin.com/in/hridya-umesh-860078319)
 
 ---
 
