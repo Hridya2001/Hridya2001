@@ -20,7 +20,7 @@ I'm a cloud computing and big data enthusiast passionate about building scalable
 ---
 
 <!-- README.md layout using HTML and Devicon CDN badges -->
-
+## Skills
 <h2> Languages</h2>
 <table>
   <tr>
