@@ -1,9 +1,23 @@
 ## 🙋‍♀️ About Me
-Hii.... I'm **Hridya Umesh**, a cloud computing and big data enthusiast passionate about building scalable data-driven solutions.
+Hii.... I'm **Hridya Umesh**, 
+
+&nbsp;
+
+I'm a cloud computing and big data enthusiast passionate about building scalable data-driven solutions.
 
 - 🔍 I enjoy solving real-world problems using technologies like **Kafka**, **Spark**, **AWS**, and **PostgreSQL**.  
+
+&nbsp;
+
 - 💡 Currently focused on data pipelines, real-time data streaming, and cloud-native applications.  
-- 🌱 Always exploring new tools to enhance data processing and infrastructure performance.
+
+&nbsp;
+
+- 🌱 Always exploring new tools to enhance data processing and infrastructure performance.  
+
+&nbsp;
+
+- 🔗 Connect with me here: [LinkedIn](https://www.linkedin.com/in/hridya-umesh-860078319)
 
 ---
 
