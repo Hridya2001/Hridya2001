@@ -17,7 +17,7 @@ Hii.... I'm **Hridya Umesh**, a cloud computing and big data enthusiast passiona
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-sql-code-and-database-query-language-logo-color-tal-revivo.png" width="48" height="48" alt="SQL" />
+      <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL" width="40"/>
       <br>SQL
     </td>
   </tr>
