@@ -61,6 +61,18 @@ I'm a cloud computing and big data enthusiast passionate about building scalable
       <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="48" height="48"/>
       <br>AWS
     </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="48" height="48" alt="Hadoop" />
+      <br>Hadoop
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/hbase-3628663-3029584.png" width="48" height="48" alt="HBase" />
+      <br>HBase
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/hive-4-1175213.png" width="48" height="48" alt="Hive" />
+      <br>Hive
+    </td>
   </tr>
 </table>
 
