@@ -1,9 +1,12 @@
-## 🙋‍♀️ About Me
-Hii.... I'm **Hridya Umesh**, 
+<p align="center">
+  <strong><span style="color:blue; font-size:24px;">Hii.... I'm Hridya Umesh</span></strong>
+</p>
+
 
 &nbsp;
 
 I'm a cloud computing and big data enthusiast passionate about building scalable data-driven solutions.
+&nbsp;
 
 - 🔍 I enjoy solving real-world problems using technologies like **Kafka**, **Spark**, **AWS**, and **PostgreSQL**.  
 
@@ -17,7 +20,7 @@ I'm a cloud computing and big data enthusiast passionate about building scalable
 
 &nbsp;
 
-- 🔗 Connect with me here: [LinkedIn](https://www.linkedin.com/in/hridya-umesh-860078319)
+- 🔗 Connect with me: [Here](https://www.linkedin.com/in/hridya-umesh-860078319)
 
 ---
 
