@@ -49,7 +49,7 @@ Hii.... I'm **Hridya Umesh**, a cloud computing and big data enthusiast passiona
       <br>Spark
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="48"/>
+      <img src="https://github.com/yourusername/yourrepo/blob/main/assets/aws.svg?raw=true" alt="AWS" width="40"/>
       <br>AWS
     </td>
   </tr>
