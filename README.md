@@ -70,9 +70,8 @@ I'm a cloud computing and big data enthusiast passionate about building scalable
       <br>HBase
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.iconscout.com/icon/free/png-256/hive-4-1175213.png" width="48" height="48" alt="Hive" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Hive_logo.svg/512px-Hive_logo.svg.png" width="48" height="48" alt="Hive" />
       <br>Hive
-    </td>
   </tr>
 </table>
 
