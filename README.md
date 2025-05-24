@@ -3,7 +3,7 @@
 I'm a cloud computing and big data enthusiast passionate about building scalable data-driven solutions.
 &nbsp;
 
-- 🔍 I enjoy solving real-world problems using technologies like **Kafka**, **Spark**, **AWS**, and **PostgreSQL**.  
+- ❤️ I love solving real-world problems using technologies like **AWS**, **Kafka** and **Spark**.  
 
 &nbsp;
 
