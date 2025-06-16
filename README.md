@@ -50,6 +50,10 @@ I'm a cloud computing and big data enthusiast passionate about building scalable
       <img src="https://raw.githubusercontent.com/Hridya2001/Hridya2001/235f1b4b9edeb2b1d85cc56562aacfc9705dc9d5/Assets/dbeaver-original.svg" width="48" height="48" alt="DBeaver" />
       <br>DBeaver
     </td>
+    <td align="center" width="96">
+      <img src="https://seeklogo.com/images/S/snowflake-logo-4376E4E3E9-seeklogo.com.png" width="48" height="48" alt="Snowflake" />
+      <br>Snowflake
+    </td>
   </tr>
 </table>
 
