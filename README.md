@@ -47,7 +47,7 @@ I'm a cloud computing and big data enthusiast passionate about building scalable
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/cute-outline/48/000000/dbeaver.png" alt="DBeaver">
+      <img src="./assets/images/dbeaver-icon.svg" alt="DBeaver" width="48" height="48">
       <br>DBeaver
     </td>
   </tr>
@@ -95,7 +95,7 @@ I'm a cloud computing and big data enthusiast passionate about building scalable
       <br>Matplotlib
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/material-filled/48/000000/power‑bi.png" alt="Power BI">
+      <img src="./assets/images/power-bi.svg" alt="Power BI" width="48" height="48">
       <br>Power BI
     </td>
   </tr>
