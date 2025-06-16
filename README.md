@@ -47,7 +47,7 @@ I'm a cloud computing and big data enthusiast passionate about building scalable
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://seeklogo.com/images/D/dbeaver-logo-A3A2EAD1DB-seeklogo.com.png" width="48" height="48" alt="DBeaver" />
+      <img src="https://dbeaver.com/img/dbeaver-icon.svg" width="48" height="48" alt="DBeaver" />
       <br>DBeaver
     </td>
   </tr>
