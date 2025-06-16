@@ -47,7 +47,7 @@ I'm a cloud computing and big data enthusiast passionate about building scalable
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="./Assets/dbeaver-icon.svg" alt="DBeaver" width="48" height="48">
+      <img src="https://raw.githubusercontent.com/Hridya2001/Hridya2001/235f1b4b9edeb2b1d85cc56562aacfc9705dc9d5/Assets/dbeaver-original.svg" width="48" height="48" alt="DBeaver" />
       <br>DBeaver
     </td>
   </tr>
