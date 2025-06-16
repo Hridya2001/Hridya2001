@@ -35,7 +35,7 @@ I'm a cloud computing and big data enthusiast passionate about building scalable
   </tr>
 </table>
 
-<h2> Database Tools</h2>
+<h2> Database & Tools</h2>
 <table>
   <tr>
     <td align="center" width="96">
