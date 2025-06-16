@@ -47,7 +47,7 @@ I'm a cloud computing and big data enthusiast passionate about building scalable
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-database-coding-and-development-flat-flat-juicy-fish.png" width="48" height="48" alt="DBeaver" />
+      <img src="http://googleusercontent.com/image_collection/image_retrieval/15061746971081290169" width="48" height="48" alt="DBeaver" />
       <br>DBeaver
     </td>
   </tr>
