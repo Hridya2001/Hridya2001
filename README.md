@@ -33,7 +33,7 @@ I'm a cloud computing and big data enthusiast passionate about building scalable
       <br>SQL
     </td>
      <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Shell Script" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" alt="ShellScript" />
       <br>Shell Script
     </td>
   </tr>
