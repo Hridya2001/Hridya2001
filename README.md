@@ -51,7 +51,7 @@ I'm a cloud computing and big data enthusiast passionate about building scalable
       <br>DBeaver
     </td>
     <td align="center" width="96">
-      <img src="https://seeklogo.com/images/S/snowflake-logo-4376E4E3E9-seeklogo.com.png" width="48" height="48" alt="Snowflake" />
+      <img src="https://img.icons8.com/ios-filled/100/000000/snowflake.png" width="48" height="48" alt="Snowflake" />
       <br>Snowflake
     </td>
   </tr>
