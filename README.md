@@ -94,6 +94,10 @@ I'm a cloud computing and big data enthusiast passionate about building scalable
       <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="48" height='48'/>
       <br>Matplotlib
     </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/material-filled/48/000000/power‑bi.png" alt="Power BI">
+      <br>Power BI
+    </td>
   </tr>
 </table>
 
