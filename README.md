@@ -34,7 +34,7 @@ I'm a cloud computing and big data enthusiast passionate about building scalable
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" height="48" alt="Shell Script" />
-      <br>Shell Script
+      <div>Shell Script</div>
     </td>
   </tr>
 </table>
