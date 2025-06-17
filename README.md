@@ -145,8 +145,6 @@ I'm a cloud computing and big data enthusiast passionate about building scalable
       <img width="400" 
            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hridya2001&layout=compact&theme=default" 
            alt="Top Languages" />
-      <br>
-      <b>Note:</b> Also used: <img src="https://img.shields.io/badge/SQL-3.01%25-blue?logo=postgresql&logoColor=white&style=flat-square" alt="SQL Badge"/>
     </td>
   </tr>
 </table>
