@@ -107,7 +107,7 @@ I'm a cloud computing and big data enthusiast passionate about building scalable
       <br>Power BI
     </td>
     <td align="center" width="110">
-      <img src="https://avatars.githubusercontent.com/u/10767276?s=200&v=4" width="48" height="48" alt="Apache Superset" />
+      <img src="https://raw.githubusercontent.com/Hridya2001/Hridya2001/main/Assets/apache-superset.svg" width="48" height="48" alt="Apache Superset" />
       <br>Apache Superset
     </td>
   </tr>
