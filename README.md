@@ -32,9 +32,9 @@ I'm a cloud computing and big data enthusiast passionate about building scalable
       <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL" width="40"/>
       <br>SQL
     </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" height="48" alt="Shell Script" />
-      <div>Shell Script</div>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Shell Script" />
+      <br>Shell Script
     </td>
   </tr>
 </table>
