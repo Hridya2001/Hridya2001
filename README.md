@@ -107,7 +107,7 @@ I'm a cloud computing and big data enthusiast passionate about building scalable
       <br>Power BI
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Superset-logo.svg" width="48" height="48" alt="Apache Superset" />
+      <img src="./Assets/apache-superset.svg" width="48" height="48" alt="Apache Superset" />
       <br>Apache Superset
     </td>
   </tr>
