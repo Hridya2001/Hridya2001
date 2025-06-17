@@ -139,7 +139,8 @@ I'm a cloud computing and big data enthusiast passionate about building scalable
   <tr>
     <td>
       <img width="400" 
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hridya2001&theme=transparent" />
+           src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hridya2001&theme=transparent" 
+           alt="Profile Details" />
     </td>
     <td>
       <img width="400" 
@@ -150,4 +151,8 @@ I'm a cloud computing and big data enthusiast passionate about building scalable
 </table>
 
 ## Streak Stats
-<div align="center"> <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=Hridya2001&theme=default" alt="Hridya's GitHub Streak" /> </div>
+<div align="center">
+  <img width="450" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=Hridya2001&theme=default" 
+       alt="Hridya's GitHub Streak" />
+</div>
