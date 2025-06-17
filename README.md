@@ -6,16 +6,16 @@
 I'm a cloud computing and big data enthusiast passionate about building scalable data-driven solutions.
 
 ## About ME
-- ❤️ I love solving real-world problems using technologies like **AWS**, **Kafka** and **Spark**.  
+ ❤️ I love solving real-world problems using technologies like **AWS**, **Kafka** and **Spark**.  
 
 
-- 💡 Currently focused on data pipelines, real-time data streaming, and cloud-native applications.  
+ 💡 Currently focused on data pipelines, real-time data streaming, and cloud-native applications.  
 
 
-- 🌱 Always exploring new tools to enhance data processing and infrastructure performance.  
+ 🌱 Always exploring new tools to enhance data processing and infrastructure performance.  
 
 
-- 🔗 Connect me [here](https://www.linkedin.com/in/hridya-umesh-860078319)
+ 🔗 Connect me [here](https://www.linkedin.com/in/hridya-umesh-860078319)
 
 ---
 
