@@ -106,10 +106,10 @@ I'm a cloud computing and big data enthusiast passionate about building scalable
       <img src="./Assets/power-bi.svg" alt="Power BI" width="48" height="48">
       <br>Power BI
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <img src="./Assets/apache-superset.svg" width="48" height="48" alt="Apache Superset" />
       <br>Apache Superset
-    </td>
+    </td> -->
   </tr>
 </table>
 
