@@ -103,7 +103,7 @@ I'm a cloud computing and big data enthusiast passionate about building scalable
       <br>Matplotlib
     </td>
     <td align="center" width="110">
-       <img src="https://img.icons8.com/color/48/power-bi.png" width="48" height="48" alt="Power BI" />
+       <img src="https://raw.githubusercontent.com/Hridya2001/Hridya2001/main/Assets/power-bi.svg" width="48" height="48" alt="Power BI" />
       <br>Power BI
     </td>
 <!--     <td align="center" width="110">
