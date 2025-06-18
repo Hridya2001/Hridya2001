@@ -142,13 +142,14 @@ I'm a cloud computing and big data enthusiast passionate about building scalable
            src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hridya2001&theme=transparent" 
            alt="Profile Details" />
     </td>
-    <td>
+<!--     <td>
       <img width="400" 
            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hridya2001&layout=compact&theme=default" 
            alt="Top Languages" />
     </td>
-  </tr>
+  </tr> -->
 </table>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hridya2001&layout=compact&langs_count=10&theme=default)
 
 
 ## Streak Stats
