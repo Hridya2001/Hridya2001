@@ -19,7 +19,6 @@ I'm a cloud computing and big data enthusiast passionate about building scalable
 
 ---
 
-<!-- README.md layout using HTML and Devicon CDN badges -->
 
 <h2>Skills - Languages</h2>
 <table>
@@ -137,7 +136,7 @@ I'm a cloud computing and big data enthusiast passionate about building scalable
 
 ---
 
-<!-- status -->
+
 ## My GitHub Stats
 <table>
   <tr>
