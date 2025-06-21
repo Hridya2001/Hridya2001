@@ -19,7 +19,6 @@ I'm a cloud computing and big data enthusiast passionate about building scalable
 
 ---
 
-
 <h2>Skills - Languages</h2>
 <table>
   <tr>
