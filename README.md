@@ -106,7 +106,8 @@ I'm a cloud computing and big data enthusiast passionate about building scalable
     </td>
     <td align="center" width="110">
       <img src="https://logo.svgcdn.com/l/apache-superset.svg"
-      alt="Apache Superset" width="48" height="48">
+      alt="Apache Superset" width="110" height="48">
+      <br>Apache Superset
     </td>
   </tr>
 </table>
