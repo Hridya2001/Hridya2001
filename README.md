@@ -137,6 +137,11 @@ I'm a cloud computing and big data enthusiast passionate about building scalable
 
 
 ## My GitHub Stats
+
+<p>
+  <img src="https://img.shields.io/badge/Language-SQL-blue?style=flat-square&logo=postgresql" />
+</p>
+
 <table>
   <tr>
     <td>
