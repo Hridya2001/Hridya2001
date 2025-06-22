@@ -140,7 +140,7 @@ I'm a cloud computing and big data enthusiast passionate about building scalable
 <table>
   <tr>
     <td>
-      <img width="500" 
+      <img width="420" 
            src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hridya2001&theme=transparent" 
            alt="Profile Details"/>
     </td>
