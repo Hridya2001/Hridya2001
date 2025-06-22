@@ -144,11 +144,24 @@ I'm a cloud computing and big data enthusiast passionate about building scalable
            src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hridya2001&theme=transparent" 
            alt="Profile Details"/>
     </td>
+<!--     <td>
+      <img width="400" 
+           src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hridya2001&layout=compact&theme=default" 
+           alt="Top Languages"/>
+    </td> -->
+    <table>
+  <tr>
     <td>
       <img width="400" 
            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hridya2001&layout=compact&theme=default" 
            alt="Top Languages"/>
     </td>
+    <td>
+      <img src="https://img.shields.io/badge/Language-SQL-blue.svg?style=for-the-badge&logo=mysql" alt="SQL Badge"/>
+    </td>
+  </tr>
+</table>
+
   </tr> 
 </table>
 
