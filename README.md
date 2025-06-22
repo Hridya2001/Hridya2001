@@ -145,16 +145,9 @@ I'm a cloud computing and big data enthusiast passionate about building scalable
            alt="Profile Details"/>
     </td>
     <td>
-      <div align="center">
-        <h3>Most Used Languages</h3>
-        <img width="400" 
-             src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hridya2001&layout=compact&theme=default" 
-             alt="Top Languages" />
-        <br><br>
-        <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Badge"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-        <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Badge"/>
-      </div>
+      <img width="400" 
+           src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hridya2001&layout=compact&theme=default" 
+           alt="Top Languages"/>
     </td>
   </tr> 
 </table>
