@@ -137,11 +137,6 @@ I'm a cloud computing and big data enthusiast passionate about building scalable
 
 
 ## My GitHub Stats
-
-<p>
-  <img src="https://img.shields.io/badge/Language-SQL-blue?style=flat-square&logo=postgresql" />
-</p>
-
 <table>
   <tr>
     <td>
@@ -154,6 +149,10 @@ I'm a cloud computing and big data enthusiast passionate about building scalable
            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hridya2001&layout=compact&theme=default" 
            alt="Top Languages"/>
     </td>
+    <p>
+      <img src="https://img.shields.io/badge/Language-SQL-blue?style=flat-square&logo=postgresql" />
+    </p>
+
   </tr> 
 </table>
 
