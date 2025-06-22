@@ -145,7 +145,7 @@ I'm a cloud computing and big data enthusiast passionate about building scalable
            alt="Profile Details"/>
     </td>
     <td>
-      <img width="340" 
+      <img width="400" 
            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hridya2001&layout=compact&theme=default" 
            alt="Top Languages"/>
     </td>
