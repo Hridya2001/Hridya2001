@@ -1,6 +1,6 @@
 <h1 align="center" style="color: blue;">
   <img src="https://cdn-icons-png.flaticon.com/512/14036/14036432.png" alt="Hi Icon" width="48" height="48" style="vertical-align: middle;">
-  <strong style="color: blue;">I'm HRIDYA UMESH</strong>
+  <strong>I'm HRIDYA UMESH</strong>
 </h1>
 
 I'm a cloud computing and big data enthusiast passionate about building scalable data-driven solutions...
