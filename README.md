@@ -63,18 +63,6 @@ I'm a cloud computing and big data enthusiast passionate about building scalable
 <table>
   <tr>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="48" height="48" alt="Kafka" />
-      <br>Kafka
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48" height="48" alt="Apache Spark" />
-      <br>Spark
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="48" height="48"/>
-      <br>AWS
-    </td>
-    <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="48" height="48" alt="Hadoop" />
       <br>Hadoop
     </td>
@@ -85,6 +73,18 @@ I'm a cloud computing and big data enthusiast passionate about building scalable
     <td align="center" width="110">
      <img src="https://hive.apache.org/images/hive.svg" width="48" height="48" alt="Hive" />
       <br>Hive
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48" height="48" alt="Apache Spark" />
+      <br>Spark
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="48" height="48" alt="Kafka" />
+      <br>Kafka
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="48" height="48"/>
+      <br>AWS
     </td>
   </tr>
 </table>
