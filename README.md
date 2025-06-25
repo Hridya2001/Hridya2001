@@ -3,7 +3,7 @@
   <strong style="color: blue;">I'm HRIDYA UMESH</strong>
 </h1>
 
-I'm a cloud computing and big data enthusiast passionate about building scalable data-driven solutions.
+I'm a cloud computing and big data enthusiast passionate about building scalable data-driven solutions...
 
 ## About ME
  ❤️ I love solving real-world problems using technologies like **AWS**, **Kafka** and **Spark**.  
