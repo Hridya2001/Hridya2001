@@ -156,6 +156,6 @@ I'm a cloud computing and big data enthusiast passionate about building scalable
 ## Streak Stats
 <div align="center">
   <img width="450"
-     <img src="https://streak-stats.demolab.com/?user=Hridya2001&theme=default" />
-     alt="My GitHub Streak"/>
+       src="https://streak-stats.demolab.com?user=Hridya2001&theme=default"
+       alt="My GitHub Streak"/>
 </div>
