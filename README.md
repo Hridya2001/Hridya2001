@@ -155,6 +155,6 @@ I'm a cloud computing and big data enthusiast passionate about building scalable
 
 ## Streak Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hridya2001&theme=default" 
-  alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hridya2001&theme=default" alt="GitHub Streak Stats" />
 </div>
+
