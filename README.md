@@ -155,7 +155,5 @@ I'm a cloud computing and big data enthusiast passionate about building scalable
 
 ## Streak Stats
 <div align="center">
-  <img width="450"
-       src="https://streak-stats.demolab.com?user=Hridya2001&theme=default"
-       alt="My GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hridya2001&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
 </div>
