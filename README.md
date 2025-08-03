@@ -176,15 +176,15 @@
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Hridya2001/Serverless-log-analyzer-aws" target="_blank">Log Analyzer</a></td>
-      <td>
-        <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white&style=flat-square">
-        <img src="https://img.shields.io/badge/CloudWatch-FF9900?logo=amazonaws&logoColor=white&style=flat-square">
-        <img src="https://img.shields.io/badge/S3-569A31?logo=amazons3&logoColor=white&style=flat-square">
-        <img src="https://img.shields.io/badge/Glue-FF9900?logo=awsglue&logoColor=white&style=flat-square">
-        <img src="https://img.shields.io/badge/Athena-232F3E?logo=amazonathena&logoColor=white&style=flat-square">
-        <img src="https://img.shields.io/badge/SNS-FF9900?logo=amazonsns&logoColor=white&style=flat-square">
-      </td>
+  <td><a href="https://github.com/Hridya2001/Serverless-log-analyzer-aws" target="_blank">Log Analyzer</a></td>
+  <td>
+    <img src="https://img.shields.io/badge/AWS%20Lambda-232F3E?logo=awslambda&logoColor=white&style=flat-square">
+    <img src="https://img.shields.io/badge/CloudWatch-232F3E?logo=amazonaws&logoColor=white&style=flat-square">
+    <img src="https://img.shields.io/badge/S3-569A31?logo=amazons3&logoColor=white&style=flat-square">
+    <img src="https://img.shields.io/badge/Glue-232F3E?logo=awsglue&logoColor=white&style=flat-square">
+    <img src="https://img.shields.io/badge/Athena-232F3E?logo=amazonathena&logoColor=white&style=flat-square">
+    <img src="https://img.shields.io/badge/SNS-232F3E?logo=amazonsns&logoColor=white&style=flat-square">
+  </td>
     </tr>
     <tr>
       <td><a href="https://github.com/Hridya2001/Basiclogin-AWS-deployment" target="_blank">Login App AWS Deployment</a></td>
