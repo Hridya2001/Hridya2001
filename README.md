@@ -1,7 +1,8 @@
-<h1 align="center" style="color: blue;">
-  <img src="https://cdn-icons-png.flaticon.com/512/14036/14036432.png" alt="Hi Icon" width="48" height="48" style="vertical-align: middle;">
-  <strong style="color: blue;">I'm HRIDYA UMESH</strong>
+<h1 align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/14036/14036432.png" width="48" height="48" style="vertical-align: middle;">
+  <img src="https://img.shields.io/badge/I'm_Hridya_Umesh-8A2BE2?style=flat-square&logoColor=white&labelColor=8A2BE2" alt="Hridya Umesh"/>
 </h1>
+
 
 
 <p align="center">
