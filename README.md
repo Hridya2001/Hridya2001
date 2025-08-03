@@ -152,7 +152,7 @@
   <thead>
     <tr>
       <th align="left">Title</th>
-      <th align="left">Technologies</th>
+      <th align="left">Tech</th>
     </tr>
   </thead>
   <tbody>
@@ -165,17 +165,6 @@
         <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square">
       </td>
     </tr>
-  </tbody>
-</table>
-
-<table>
-  <thead>
-    <tr>
-      <th align="left">Title</th>
-      <th align="left">Technologies</th>
-    </tr>
-  </thead>
-  <tbody>
     <tr>
       <td><a href="https://github.com/Hridya2001/superstore-sales-sql" target="_blank">Superstore Sales Analysis</a></td>
       <td>
@@ -186,7 +175,6 @@
   </tbody>
 </table>
 
-   
 ---
 
 ## My GitHub Stats
