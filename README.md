@@ -223,15 +223,24 @@
 ---
 
 ## My GitHub Stats
-
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hridya2001&theme=default" alt="GitHub Streak Stats"/>
+      <img width="500" 
+           src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hridya2001&theme=transparent" 
+           alt="Profile Details"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hridya2001&layout=compact&theme=default" alt="Top Languages"/>
+      <img width="400" 
+           src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hridya2001&layout=compact&theme=default" 
+           alt="Top Languages"/>
     </td>
-  </tr>
+  </tr> 
 </table>
 
+## Streak Stats
+<div align="center">
+  <img width="450"
+       src="https://streak-stats.demolab.com?user=Hridya2001&theme=default"
+       alt="My GitHub Streak"/>
+</div>
