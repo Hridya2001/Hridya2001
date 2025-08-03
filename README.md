@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/hridya-umesh-860078319">
     <img src="https://img.shields.io/badge/LinkedIn-Hridya%20Umesh-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-  <a href="hridyaumesh2@gmail.com">
+  <a href="Email">
     <img src="https://img.shields.io/badge/Email-hridyaumesh2@gmail.com-red?logo=gmail&style=for-the-badge" alt="Email Badge"/>
   </a>
 </p>
@@ -25,7 +25,6 @@ I'm a cloud computing and big data enthusiast passionate about building scalable
  🌱 Always exploring new tools to enhance data processing and infrastructure performance.  
 
 
- 🔗 Connect me [here](https://www.linkedin.com/in/hridya-umesh-860078319)
 
 ---
 
