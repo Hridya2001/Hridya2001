@@ -169,18 +169,18 @@
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Hridya2001/Weather-prediction-AWS" target="_blank">Weather Prediction</a></td>
-      <td>
-        <img src="https://img.shields.io/badge/API-0052CC?logo=fastapi&logoColor=white&style=flat-square">
-        <img src="https://img.shields.io/badge/EventBridge-FF9900?logo=amazoneventbridge&logoColor=white&style=flat-square">
-        <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white&style=flat-square">
-        <img src="https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=white&style=flat-square">
-        <img src="https://img.shields.io/badge/IAM-232F3E?logo=amazonaws&logoColor=white&style=flat-square">
-        <img src="https://img.shields.io/badge/S3-569A31?logo=amazons3&logoColor=white&style=flat-square">
-        <img src="https://img.shields.io/badge/SQS-FF9900?logo=amazonsqs&logoColor=white&style=flat-square">
-        <img src="https://img.shields.io/badge/Snowflake-56B9EB?logo=snowflake&logoColor=white&style=flat-square">
-        <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=flat-square">
-      </td>
+  <td><a href="https://github.com/Hridya2001/Weather-prediction-AWS" target="_blank">Weather Prediction</a></td>
+  <td>
+    <img src="https://img.shields.io/badge/API-0052CC?logo=fastapi&logoColor=white&style=flat-square">
+    <img src="https://img.shields.io/badge/EventBridge-FF69B4?logo=amazoneventbridge&logoColor=white&style=flat-square">
+    <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white&style=flat-square">
+    <img src="https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=white&style=flat-square">
+    <img src="https://img.shields.io/badge/IAM-FF0000?logo=aws&logoColor=white&style=flat-square">
+    <img src="https://img.shields.io/badge/S3-569A31?logo=amazons3&logoColor=white&style=flat-square">
+    <img src="https://img.shields.io/badge/SQS-FF69B4?logo=amazonsqs&logoColor=white&style=flat-square">
+    <img src="https://img.shields.io/badge/Snowflake-56B9EB?logo=snowflake&logoColor=white&style=flat-square">
+    <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white&style=flat-square">
+  </td>
     </tr>
     <tr>
       <td><a href="https://github.com/Hridya2001/kaggle-sales-data-mysql-analysis" target="_blank">Sales Data Analysis</a></td>
