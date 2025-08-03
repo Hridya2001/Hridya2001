@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/14036/14036432.png" alt="Hi Icon" width="48" height="48" style="vertical-align: middle;">
   <span style="color:#4B0082; font-weight:700; font-size:36px; font-family:'Trebuchet MS', sans-serif;">
-    𝙷𝚁𝙸𝙳𝚈𝙰 𝚄𝙼𝙴𝚂𝙷
+    I'm 𝙷ridya Umesh
   </span>
 </h1>
 
