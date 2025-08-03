@@ -1,9 +1,10 @@
 <h1 align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/14036/14036432.png" alt="Hi Icon" width="48" height="48" style="vertical-align: middle;">
-  <span style="color:#4B0082; font-weight:700; font-size:36px; font-family:'Trebuchet MS', sans-serif;">
-    I'm 𝙷ridya Umesh
+  <span style="color:#8A2BE2; font-size:34px; font-weight:700; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+    I'm <span style="letter-spacing: 1px;">Hridya Umesh</span>
   </span>
 </h1>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hridya-umesh-860078319" target="_blank">
