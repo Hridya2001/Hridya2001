@@ -148,15 +148,26 @@
 
 ---
 
-1. Project Title: News Stream Pipeline  
-   GitHub Link: https://github.com/Hridya2001/news-stream-pipeline  
-   Category: Data Engineering  
-   Technologies: Kafka, Spark, AWS, PostgreSQL
+<table>
+  <thead>
+    <tr>
+      <th align="left">Title</th>
+      <th align="left">Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Hridya2001/news-stream-pipeline" target="_blank">News Stream Pipeline</a></td>
+      <td>
+        <img src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white&style=flat-square">
+        <img src="https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white&style=flat-square">
+        <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square">
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-2. Project Title: Superstore Sales Analysis  
-   GitHub Link: https://github.com/Hridya2001/superstore-sales-sql  
-   Category: Analytics  
-   Technologies: MySQL, Excel
    
 ---
 
