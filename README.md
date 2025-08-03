@@ -223,15 +223,15 @@
 ---
 
 ## My GitHub Stats
+
 <table>
   <tr>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hridya2001&theme=default" alt="GitHub Streak Stats" />  
     <td>
-      <img width="400" 
-           src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hridya2001&layout=compact&theme=default" 
-           alt="Top Languages"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hridya2001&theme=default" alt="GitHub Streak Stats"/>
     </td>
-  </tr> 
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hridya2001&layout=compact&theme=default" alt="Top Languages"/>
+    </td>
+  </tr>
 </table>
-
 
