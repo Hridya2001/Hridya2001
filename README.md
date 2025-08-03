@@ -7,10 +7,11 @@
   <a href="https://www.linkedin.com/in/hridya-umesh-860078319">
     <img src="https://img.shields.io/badge/LinkedIn-Hridya%20Umesh-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-  <a href="Email">
+  <a href="mailto:hridyaumesh2@gmail.com">
     <img src="https://img.shields.io/badge/Email-hridyaumesh2@gmail.com-red?logo=gmail&style=for-the-badge" alt="Email Badge"/>
   </a>
 </p>
+
 
 
 I'm a cloud computing and big data enthusiast passionate about building scalable data-driven solutions...
