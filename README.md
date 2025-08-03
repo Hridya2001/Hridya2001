@@ -14,9 +14,6 @@
 
 
 
-☁️ A cloud computing and big data enthusiast passionate about building scalable data-driven solutions.
-
-
  ❤️ I love solving real-world problems using technologies like **AWS**, **Kafka** and **Spark**.  
 
 
@@ -153,7 +150,7 @@
   <thead>
     <tr>
       <th align="left">Title</th>
-      <th align="left">Technologies</th>
+      <th align="left">Tech</th>
     </tr>
   </thead>
   <tbody>
