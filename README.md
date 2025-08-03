@@ -165,6 +165,7 @@
         <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square">
         <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square">
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat-square">
+         <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white&style=flat-square">
       </td>
     </tr>
     <tr>
@@ -189,7 +190,6 @@
       <td><a href="https://github.com/Hridya2001/Basiclogin-AWS-deployment" target="_blank">Login App AWS Deployment</a></td>
       <td>
         <img src="https://img.shields.io/badge/Shell-121011?logo=gnubash&logoColor=white&style=flat-square">
-        <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square">
         <img src="https://img.shields.io/badge/EC2-FF9900?logo=amazonec2&logoColor=white&style=flat-square">
         <img src="https://img.shields.io/badge/RDS-527FFF?logo=amazonrds&logoColor=white&style=flat-square">
         <img src="https://img.shields.io/badge/S3-569A31?logo=amazons3&logoColor=white&style=flat-square">
