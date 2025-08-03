@@ -225,11 +225,7 @@
 ## My GitHub Stats
 <table>
   <tr>
-    <td>
-      <img width="420" 
-           src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hridya2001&theme=transparent" 
-           alt="Profile Details"/>
-    </td>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hridya2001&theme=default" alt="GitHub Streak Stats" />  
     <td>
       <img width="400" 
            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hridya2001&layout=compact&theme=default" 
@@ -238,8 +234,4 @@
   </tr> 
 </table>
 
-## Streak Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hridya2001&theme=default" alt="GitHub Streak Stats" />
-</div>
 
