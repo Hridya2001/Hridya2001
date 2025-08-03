@@ -147,7 +147,7 @@
 </table>
 
 ---
-
+## My Projects
 <table>
   <thead>
     <tr>
@@ -163,6 +163,24 @@
         <img src="https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white&style=flat-square">
         <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square">
         <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Title</th>
+      <th align="left">Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Hridya2001/superstore-sales-sql" target="_blank">Superstore Sales Analysis</a></td>
+      <td>
+        <img src="https://img.shields.io/badge/MySQL-00758F?logo=mysql&logoColor=white&style=flat-square">
+        <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white&style=flat-square">
       </td>
     </tr>
   </tbody>
