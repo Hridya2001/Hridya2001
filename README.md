@@ -148,6 +148,17 @@
 
 ---
 
+1. Project Title: News Stream Pipeline  
+   GitHub Link: https://github.com/Hridya2001/news-stream-pipeline  
+   Category: Data Engineering  
+   Technologies: Kafka, Spark, AWS, PostgreSQL
+
+2. Project Title: Superstore Sales Analysis  
+   GitHub Link: https://github.com/Hridya2001/superstore-sales-sql  
+   Category: Analytics  
+   Technologies: MySQL, Excel
+   
+---
 
 ## My GitHub Stats
 <table>
