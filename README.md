@@ -14,9 +14,9 @@
 
 
 
-I'm a cloud computing and big data enthusiast passionate about building scalable data-driven solutions...
+☁️ A cloud computing and big data enthusiast passionate about building scalable data-driven solutions.
 
-## About ME
+
  ❤️ I love solving real-world problems using technologies like **AWS**, **Kafka** and **Spark**.  
 
 
@@ -24,7 +24,9 @@ I'm a cloud computing and big data enthusiast passionate about building scalable
 
 
  🌱 Always exploring new tools to enhance data processing and infrastructure performance.  
+ 
 
+ 📊 Passionate about transforming raw data into valuable insights through modern data engineering practices.
 
 
 ---
