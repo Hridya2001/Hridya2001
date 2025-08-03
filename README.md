@@ -5,12 +5,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hridya-umesh-860078319" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:hridyaumesh2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Email-EB4432?logo=gmail&logoColor=white&style=for-the-badge" alt="Email Badge"/>
   </a>
 </p>
+
 
 
 I'm a cloud computing and big data enthusiast passionate about building scalable data-driven solutions...
