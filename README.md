@@ -223,16 +223,16 @@
   </td>
   </tr>
     <tr>
-      <td><a href="https://github.com/Hridya2001/aws-csv-data-pipeline" target="_blank">CSV Data Pipeline</a></td>
-      <td>
-        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square">
-        <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=flat-square">
-        <img src="https://img.shields.io/badge/S3-569A31?logo=amazons3&logoColor=white&style=flat-square">
-        <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white&style=flat-square">
-        <img src="https://img.shields.io/badge/Glue-FF9900?logo=awsglue&logoColor=white&style=flat-square">
-        <img src="https://img.shields.io/badge/QuickSight-232F3E?logo=amazonquicksight&logoColor=white&style=flat-square">
-      </td>
-    </tr>
+  <td><a href="https://github.com/Hridya2001/aws-csv-data-pipeline" target="_blank">CSV Data Pipeline</a></td>
+  <td>
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square">
+    <img src="https://img.shields.io/badge/SQL-1C1C1C?logo=sqlite&logoColor=white&style=flat-square">
+    <img src="https://img.shields.io/badge/S3-569A31?logo=amazons3&logoColor=white&style=flat-square">
+    <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white&style=flat-square">
+    <img src="https://img.shields.io/badge/Glue-800080?logo=awsglue&logoColor=white&style=flat-square">
+    <img src="https://img.shields.io/badge/QuickSight-2D9CDB?logo=amazonquicksight&logoColor=white&style=flat-square">
+  </td>
+  </tr>
   </tbody>
 </table>
 
