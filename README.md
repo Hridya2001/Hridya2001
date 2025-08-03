@@ -4,13 +4,14 @@
 </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hridya-umesh-860078319">
-    <img src="https://img.shields.io/badge/LinkedIn-Hridya%20Umesh-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/hridya-umesh-860078319" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:hridyaumesh2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hridyaumesh2@gmail.com-red?logo=gmail&style=for-the-badge" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=flat-square" alt="Email Badge"/>
   </a>
 </p>
+
 
 
 
