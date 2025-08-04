@@ -29,120 +29,43 @@
 
 ---
 
-<h2>Skills - Languages</h2>
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL" width="40"/>
-      <br>SQL
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Shell Script" />
-      <br>Shell Script
-    </td>
-  </tr>
-</table>
+<div align="center"Skills>
 
-<h2> Database & Tools</h2>
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/Hridya2001/Hridya2001/235f1b4b9edeb2b1d85cc56562aacfc9705dc9d5/Assets/dbeaver-original.svg" width="48" height="48" alt="DBeaver" />
-      <br>DBeaver
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.icons8.com/color/96/snowflake.png" width="48" height="48" alt="Snowflake" />
-      <br>Snowflake
-    </td>
-  </tr>
-</table>
+<!-- Languages -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Shell%20Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 
-<h2> Big Data & Cloud Tools</h2>
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="48" height="48" alt="Hadoop" />
-      <br>Hadoop
-    </td>
-    <td align="center" width="110">
-      <img src="https://hbase.apache.org/images/hbase_logo.png" width="48" height="48" alt="HBase" />
-      <br>HBase
-    </td>
-    <td align="center" width="110">
-     <img src="https://hive.apache.org/images/hive.svg" width="48" height="48" alt="Hive" />
-      <br>Hive
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48" height="48" alt="Apache Spark" />
-      <br>Spark
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="48" height="48" alt="Kafka" />
-      <br>Kafka
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="48" height="48"/>
-      <br>AWS
-    </td>
-  </tr>
-</table>
+<!-- Databases & Tools -->
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white"/>
 
-<h2> Visualization</h2>
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="48" height="48" alt="Streamlit" />
-      <br>Streamlit
-    </td>
-    <td align="center" width="110">
-      <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="48" height='48'/>
-      <br>Matplotlib
-    </td>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/Hridya2001/Hridya2001/235f1b4b9edeb2b1d85cc56562aacfc9705dc9d5/Assets/power-bi.svg" width="48" height="48" alt="Power BI" />
-      <br>Power BI
-    </td>
-    <td align="center" width="110">
-      <img src="https://logo.svgcdn.com/l/apache-superset.svg"
-      alt="Apache Superset" width="110" height="48">
-      <br>Superset
-    </td>
-  </tr>
-</table>
+<!-- Big Data -->
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
+<img src="https://img.shields.io/badge/HBase-003366?style=for-the-badge&logo=apache&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hive-F9A602?style=for-the-badge&logo=apachehive&logoColor=black"/>
+<img src="https://img.shields.io/badge/Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black"/>
+<img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white"/>
 
-<h2> Version control & Others</h2>
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
-      <br>GitHub
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-  </tr>
-</table>
+<!-- Cloud -->
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<!-- Visualization -->
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Superset-181818?style=for-the-badge&logo=apache&logoColor=white"/>
+
+<!-- Version Control & OS -->
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+</div>
+
 
 ---
 ##  Projects
