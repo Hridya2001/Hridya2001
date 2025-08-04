@@ -30,6 +30,7 @@
 ---
 ## Skills
 <table>
+  <thead>
 <div align="center">
 
 <!-- Languages -->
@@ -66,6 +67,7 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 </div>
+</thead>
 </table>
 
 ---
