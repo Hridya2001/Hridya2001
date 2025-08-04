@@ -28,8 +28,8 @@
 
 
 ---
-
-<div align="center"Skills>
+## Skills
+<div align="center">
 
 <!-- Languages -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
