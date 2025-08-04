@@ -3,9 +3,8 @@
     <img src="https://cdn-icons-png.flaticon.com/512/14036/14036432.png" alt="Hi Icon" width="48" height="48" style="vertical-align: middle;"/>
   </p>
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=500&color=FF69B4&background=FFFFFF00&center=true&vCenter=true&width=500&lines=I'm+Hridya+Umesh;Data+Enthusiast" 
-    alt="Typing SVG" />
-</div>
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=500&color=00C853&background=FFFFFF00&center=true&vCenter=true&width=500&lin
+
 
 
 <p align="center">
