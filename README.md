@@ -1,8 +1,8 @@
 <div align="center">
   <p>
     <img src="https://cdn-icons-png.flaticon.com/512/14036/14036432.png" alt="Hi Icon" width="48" height="48" style="vertical-align: middle;" />
+     <h2 style="color:#00C853; font-family:'Fira Code', monospace; margin: 0;">I'm Hridya Umesh</h2>
   </p>
-  <h2 style="color:#00C853; font-family:'Fira Code', monospace; margin: 0;">I'm Hridya Umesh</h2>
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=500&color=00C853&background=FFFFFF00&center=true&vCenter=true&width=300&lines=Data+Enthusiast" 
     alt="Typing SVG" />
