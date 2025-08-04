@@ -1,11 +1,6 @@
 <h1 align="center" style="color: blue;">
   <img src="https://cdn-icons-png.flaticon.com/512/14036/14036432.png" alt="Hi Icon" width="48" height="48" style="vertical-align: middle;">
- <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=500&color=1E90FF&background=FFFFFF00&center=true&vCenter=true&width=500&lines=I'm+Hridya+Umesh"
-    alt="Typing SVG" />
-</p>
-
+  <strong style="color=1E90FF;">I'm HRIDYA UMESH</strong>
 </h1>
 
 <p align="center">
