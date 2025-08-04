@@ -1,14 +1,12 @@
-<div align="center">
-  <p>
-    <img src="https://cdn-icons-png.flaticon.com/512/14036/14036432.png" alt="Hi Icon" width="48" height="48" style="vertical-align: middle;" />
-     <h2 style="color:#00C853; font-family:'Fira Code', monospace; margin: 0;">I'm Hridya Umesh</h2>
-  </p>
+<h1 align="center" style="color: blue;">
+  <img src="https://cdn-icons-png.flaticon.com/512/14036/14036432.png" alt="Hi Icon" width="48" height="48" style="vertical-align: middle;">
+ <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=500&color=00C853&background=FFFFFF00&center=true&vCenter=true&width=300&lines=Data+Enthusiast" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=500&color=FF69B4&background=FFFFFF00&center=true&vCenter=true&width=500&lines=I'm+Hridya+Umesh;Data+Enthusiast"
     alt="Typing SVG" />
-</div>
+</p>
 
-
+</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hridya-umesh-860078319" target="_blank">
