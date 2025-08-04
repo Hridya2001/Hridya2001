@@ -28,74 +28,120 @@
 
 ---
 
+<h2>Skills - Languages</h2>
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL" width="40"/>
+      <br>SQL
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Shell Script" />
+      <br>Shell Script
+    </td>
+  </tr>
+</table>
 
-<h2>Skills</h2>
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br>Python
-  </div>
-  <div align="center">
-    <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" width="32" height="32" alt="SQL"/><br>SQL
-  </div>
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Shell"/><br>Shell
-  </div>
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/><br>PostgreSQL
-  </div>
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/><br>MySQL
-  </div>
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/Hridya2001/Hridya2001/main/Assets/dbeaver-original.svg" width="40" height="40" alt="DBeaver"/><br>DBeaver
-  </div>
-  <div align="center">
-    <img src="https://img.icons8.com/color/48/snowflake.png" width="40" height="40" alt="Snowflake"/><br>Snowflake
-  </div>
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="40" height="40" alt="Hadoop"/><br>Hadoop
-  </div>
-  <div align="center">
-    <img src="https://hbase.apache.org/images/hbase_logo.png" width="40" height="40" alt="HBase"/><br>HBase
-  </div>
-  <div align="center">
-    <img src="https://hive.apache.org/images/hive.svg" width="40" height="40" alt="Hive"/><br>Hive
-  </div>
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" height="40" alt="Spark"/><br>Spark
-  </div>
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40" alt="Kafka"/><br>Kafka
-  </div>
-  <div align="center">
-    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="40" height="40" alt="AWS"/><br>AWS
-  </div>
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="40" height="40" alt="Streamlit"/><br>Streamlit
-  </div>
-  <div align="center">
-    <img src="https://matplotlib.org/_static/images/logo2.svg" width="40" height="40" alt="Matplotlib"/><br>Matplotlib
-  </div>
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/Hridya2001/Hridya2001/main/Assets/power-bi.svg" width="40" height="40" alt="Power BI"/><br>Power BI
-  </div>
-  <div align="center">
-    <img src="https://logo.svgcdn.com/l/apache-superset.svg" width="40" height="40" alt="Superset"/><br>Superset
-  </div>
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br>Git
-  </div>
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/><br>GitHub
-  </div>
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/><br>Docker
-  </div>
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/><br>Linux
-  </div>
-</div>
+<h2> Database & Tools</h2>
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/Hridya2001/Hridya2001/235f1b4b9edeb2b1d85cc56562aacfc9705dc9d5/Assets/dbeaver-original.svg" width="48" height="48" alt="DBeaver" />
+      <br>DBeaver
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/color/96/snowflake.png" width="48" height="48" alt="Snowflake" />
+      <br>Snowflake
+    </td>
+  </tr>
+</table>
 
+<h2> Big Data & Cloud Tools</h2>
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="48" height="48" alt="Hadoop" />
+      <br>Hadoop
+    </td>
+    <td align="center" width="110">
+      <img src="https://hbase.apache.org/images/hbase_logo.png" width="48" height="48" alt="HBase" />
+      <br>HBase
+    </td>
+    <td align="center" width="110">
+     <img src="https://hive.apache.org/images/hive.svg" width="48" height="48" alt="Hive" />
+      <br>Hive
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48" height="48" alt="Apache Spark" />
+      <br>Spark
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="48" height="48" alt="Kafka" />
+      <br>Kafka
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="48" height="48"/>
+      <br>AWS
+    </td>
+  </tr>
+</table>
+
+<h2> Visualization</h2>
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="48" height="48" alt="Streamlit" />
+      <br>Streamlit
+    </td>
+    <td align="center" width="110">
+      <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="48" height='48'/>
+      <br>Matplotlib
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/Hridya2001/Hridya2001/235f1b4b9edeb2b1d85cc56562aacfc9705dc9d5/Assets/power-bi.svg" width="48" height="48" alt="Power BI" />
+      <br>Power BI
+    </td>
+    <td align="center" width="110">
+      <img src="https://logo.svgcdn.com/l/apache-superset.svg"
+      alt="Apache Superset" width="110" height="48">
+      <br>Superset
+    </td>
+  </tr>
+</table>
+
+<h2> Version control & Others</h2>
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+  </tr>
+</table>
 
 ---
 ##  Projects
