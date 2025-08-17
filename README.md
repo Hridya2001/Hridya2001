@@ -1,10 +1,9 @@
 <h1 align="center" style="color: blue;">
   <img src="https://cdn-icons-png.flaticon.com/512/14036/14036432.png" alt="Hi Icon" width="48" height="48" style="vertical-align: middle;">
-  <strong style="color: 1E90FF;">I'm HRIDYA UMESH</strong>
-  
+  <strong style="color: 1E90FF;">I'm HRIDYA UMESH</strong>  
 </h1>
 
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; gap: 15px;">
   <a href="https://www.linkedin.com/in/hridya-umesh-860078319" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
@@ -14,10 +13,9 @@
   <a href="https://hridya-umesh.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-708090?style=for-the-badge" alt="Portfolio Badge"/>
   </a>
-
-
-
 </p>
+
+
 
 
 
