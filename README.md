@@ -11,9 +11,10 @@
   <a href="mailto:hridyaumesh2@gmail.com">
     <img src="https://img.shields.io/badge/Email-EB4432?logo=gmail&logoColor=white&style=for-the-badge" alt="Email Badge"/>
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1E90FF?logo=about.me&logoColor=white&style=for-the-badge" alt="Portfolio Badge"/>
+  <a href="https://hridya-umesh.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2E8B57?logo=about.me&logoColor=white&style=for-the-badge" alt="Portfolio Badge"/>
   </a>
+
 </p>
 
 
