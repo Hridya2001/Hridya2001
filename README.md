@@ -28,13 +28,6 @@
  📊 Passionate about transforming raw data into valuable insights through modern data engineering practices.
 
 
-
-I’m passionate about data analytics and cloud computing, using my background in economics to analyze data, uncover insights, and solve real-world problems. I enjoy working with Python, Spark, SQL and cloud platforms like AWS, building pipelines, performing data transformations, and creating interactive dashboards to make data actionable.
-
-Through my projects and professional experience, I have developed skills in data processing, visualization, and cloud-based workflows, working on tasks like data migration, ensuring data quality, and supporting analytics for decision-making. I continuously explore new tools and techniques to stay up-to-date with the evolving data landscape.
-
-With a strong foundation in economics and practical experience in data analytics and cloud technologies, I am eager to contribute to innovative, data-driven projects and collaborate with teams that value problem-solving, learning, and creativity.
-
 ---
 <h2>Skills - Languages</h2>
 <table>
