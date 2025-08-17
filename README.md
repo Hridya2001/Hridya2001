@@ -12,8 +12,9 @@
     <img src="https://img.shields.io/badge/Email-EB4432?logo=gmail&logoColor=white&style=for-the-badge" alt="Email Badge"/>
   </a>
   <a href="https://hridya-umesh.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2E8B57?style=for-the-badge" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-FFCBA4?style=for-the-badge" alt="Portfolio Badge"/>
   </a>
+
 
 </p>
 
