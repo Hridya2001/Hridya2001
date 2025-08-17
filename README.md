@@ -1,4 +1,4 @@
-![Profile Visitors](https://komarev.com/ghpvc/?username=hridya-umesh&label=Profile%20Visitors&color=FFB84D&style=flat-square)
+![Profile Viewers](https://komarev.com/ghpvc/?username=hridya-umesh&label=Profile%20Visitors&color=FFB84D&style=flat-square)
 
 
 
