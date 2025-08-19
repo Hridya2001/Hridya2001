@@ -173,6 +173,19 @@
         <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square">
       </td>
     </tr>
+
+     <tr>
+  <td><a href="https://github.com/Hridya2001/aws-csv-data-pipeline" target="_blank">CSV Data Pipeline</a></td>
+  <td>
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square">
+    <img src="https://img.shields.io/badge/SQL-1C1C1C?logo=sqlite&logoColor=white&style=flat-square">
+    <img src="https://img.shields.io/badge/S3-569A31?logo=amazons3&logoColor=white&style=flat-square">
+    <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white&style=flat-square">
+    <img src="https://img.shields.io/badge/Glue-800080?logo=awsglue&logoColor=white&style=flat-square">
+    <img src="https://img.shields.io/badge/QuickSight-2D9CDB?logo=amazonquicksight&logoColor=white&style=flat-square">
+  </td>
+  </tr>
+    
     <tr>
   <td><a href="https://github.com/Hridya2001/Weather-prediction-AWS" target="_blank">Weather Prediction</a></td>
   <td>
@@ -187,6 +200,7 @@
     <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white&style=flat-square">
   </td>
     </tr>
+    
     <tr>
       <td><a href="https://github.com/Hridya2001/kaggle-sales-data-mysql-analysis" target="_blank">Sales Data Analysis</a></td>
       <td>
@@ -194,6 +208,29 @@
         <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=flat-square">
       </td>
     </tr>
+    
+     <tr>
+  <td><a href="https://github.com/Hridya2001/youtube-trending-data-pipeline" target="_blank">YouTube Data Analysis</a></td>
+  <td>
+    <img src="https://img.shields.io/badge/API-0052CC?logo=fastapi&logoColor=white&style=flat-square">
+    <img src="https://img.shields.io/badge/EventBridge-FF69B4?logo=amazoneventbridge&logoColor=white&style=flat-square">
+    <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white&style=flat-square">
+    <img src="https://img.shields.io/badge/S3-569A31?logo=amazons3&logoColor=white&style=flat-square">
+    <img src="https://img.shields.io/badge/Glue-800080?logo=awsglue&logoColor=white&style=flat-square">
+    <img src="https://img.shields.io/badge/Athena-232F3E?logo=amazonathena&logoColor=white&style=flat-square">
+    <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=flat-square">
+  </td>
+  </tr>
+
+     <tr>
+  <td><a href="https://github.com/Hridya2001/bigdata-hive-data-analysis" target="_blank">Hive Data Analysis</a></td>
+  <td>
+    <img src="https://img.shields.io/badge/Hive-FFEB3B?logo=apachehive&logoColor=black&style=flat-square">
+    <img src="https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white&style=flat-square">
+    <img src="https://img.shields.io/badge/Hadoop-FFD700?logo=apachehadoop&logoColor=black&style=flat-square">
+  </td>
+</tr>
+    
     <tr>
   <td><a href="https://github.com/Hridya2001/Serverless-log-analyzer-aws" target="_blank">Log Analyzer</a></td>
   <td>
@@ -215,37 +252,6 @@
         <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square">
       </td>
     </tr>
-    <tr>
-  <td><a href="https://github.com/Hridya2001/youtube-trending-data-pipeline" target="_blank">YouTube Data Analysis</a></td>
-  <td>
-    <img src="https://img.shields.io/badge/API-0052CC?logo=fastapi&logoColor=white&style=flat-square">
-    <img src="https://img.shields.io/badge/EventBridge-FF69B4?logo=amazoneventbridge&logoColor=white&style=flat-square">
-    <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white&style=flat-square">
-    <img src="https://img.shields.io/badge/S3-569A31?logo=amazons3&logoColor=white&style=flat-square">
-    <img src="https://img.shields.io/badge/Glue-800080?logo=awsglue&logoColor=white&style=flat-square">
-    <img src="https://img.shields.io/badge/Athena-232F3E?logo=amazonathena&logoColor=white&style=flat-square">
-    <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=flat-square">
-  </td>
-  </tr>
-    <tr>
-  <td><a href="https://github.com/Hridya2001/aws-csv-data-pipeline" target="_blank">CSV Data Pipeline</a></td>
-  <td>
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square">
-    <img src="https://img.shields.io/badge/SQL-1C1C1C?logo=sqlite&logoColor=white&style=flat-square">
-    <img src="https://img.shields.io/badge/S3-569A31?logo=amazons3&logoColor=white&style=flat-square">
-    <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white&style=flat-square">
-    <img src="https://img.shields.io/badge/Glue-800080?logo=awsglue&logoColor=white&style=flat-square">
-    <img src="https://img.shields.io/badge/QuickSight-2D9CDB?logo=amazonquicksight&logoColor=white&style=flat-square">
-  </td>
-  </tr>
-    <tr>
-  <td><a href="https://github.com/Hridya2001/bigdata-hive-data-analysis" target="_blank">Hive Data Analysis</a></td>
-  <td>
-    <img src="https://img.shields.io/badge/Hive-FFEB3B?logo=apachehive&logoColor=black&style=flat-square">
-    <img src="https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white&style=flat-square">
-    <img src="https://img.shields.io/badge/Hadoop-FFD700?logo=apachehadoop&logoColor=black&style=flat-square">
-  </td>
-</tr>
 
   </tbody>
 </table>
