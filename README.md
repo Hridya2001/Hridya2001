@@ -184,7 +184,7 @@
         <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square">
         <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square">
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat-square">
-        <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square">
+        <img src="https://img.shields.io/badge/AWS-#232f3e?logo=amazonaws&logoColor=white&style=flat-square">
       </td>
     </tr>
     <tr>
