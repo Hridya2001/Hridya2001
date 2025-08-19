@@ -258,9 +258,9 @@
 <table>
   <tr>
     <td>
-      <img width="450"
-       src="https://streak-stats.demolab.com?user=Hridya2001&theme=default"
-       alt="My GitHub Streak"/>
+      <img width="500" 
+           src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hridya2001&theme=transparent" 
+           alt="Profile Details"/>
     </td>
     <td>
       <img width="400" 
@@ -269,3 +269,6 @@
     </td>
   </tr> 
 </table>
+
+
+
