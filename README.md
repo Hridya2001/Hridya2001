@@ -214,7 +214,7 @@
         <img src="https://img.shields.io/badge/S3-569A31?logo=amazons3&logoColor=white&style=flat-square">
         <img src="https://img.shields.io/badge/Glue-800080?logo=awsglue&logoColor=white&style=flat-square">
         <img src="https://img.shields.io/badge/Athena-232F3E?logo=amazonathena&logoColor=white&style=flat-square">
-        <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=flat-square">
+        <img src="https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white&style=flat-square">
       </td>
     </tr>
      <tr>
