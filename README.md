@@ -177,7 +177,7 @@
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Hridya2001/news-stream-pipeline" target="_blank">News Stream Pipeline</a></td>
+      <td><a href="https://github.com/Hridya2001/real-time-news-analysis" target="_blank">News Stream Pipeline</a></td>
       <td>
         <img src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white&style=flat-square">
         <img src="https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white&style=flat-square">
