@@ -173,7 +173,7 @@
         <img src="https://img.shields.io/badge/S3-569A31?logo=amazons3&logoColor=white&style=flat-square">
         <img src="https://img.shields.io/badge/SQS-FF69B4?logo=amazonsqs&logoColor=white&style=flat-square">
         <img src="https://img.shields.io/badge/Snowflake-56B9EB?logo=snowflake&logoColor=white&style=flat-square">
-        <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white&style=flat-square">
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square">
       </td>
     </tr>
     <tr>
