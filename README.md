@@ -221,7 +221,7 @@
       <td><a href="https://github.com/Hridya2001/bigdata-hive-data-analysis" target="_blank">Hive Data Analysis</a></td>
       <td>
         <img src="https://img.shields.io/badge/Hive-FFEB3B?logo=apachehive&logoColor=black&style=flat-square">
-        <img src="https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white&style=flat-square">
+        <img src="https://img.shields.io/badge/SQL-1C1C1C?logo=sqlite&logoColor=white&style=flat-square">
         <img src="https://img.shields.io/badge/Hadoop-FFD700?logo=apachehadoop&logoColor=black&style=flat-square">
       </td>
     </tr>
