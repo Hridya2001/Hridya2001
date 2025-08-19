@@ -250,8 +250,22 @@
 </table>
 
 
-
-
-
  ---
 
+
+
+## GitHub Stats
+<table>
+  <tr>
+    <td>
+      <img width="450"
+       src="https://streak-stats.demolab.com?user=Hridya2001&theme=default"
+       alt="My GitHub Streak"/>
+    </td>
+    <td>
+      <img width="400" 
+           src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hridya2001&layout=compact&theme=default" 
+           alt="Top Languages"/>
+    </td>
+  </tr> 
+</table>
