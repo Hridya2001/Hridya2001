@@ -229,7 +229,7 @@
     <img src="https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white&style=flat-square">
     <img src="https://img.shields.io/badge/Hadoop-FFD700?logo=apachehadoop&logoColor=black&style=flat-square">
   </td>
-</tr>
+  </tr>
     
     <tr>
   <td><a href="https://github.com/Hridya2001/Serverless-log-analyzer-aws" target="_blank">Log Analyzer</a></td>
@@ -242,6 +242,7 @@
     <img src="https://img.shields.io/badge/SNS-FF69B4?logo=amazonsns&logoColor=white&style=flat-square">
   </td>
   </tr>
+  
     <tr>
       <td><a href="https://github.com/Hridya2001/Basiclogin-AWS-deployment" target="_blank">Login App AWS Deployment</a></td>
       <td>
