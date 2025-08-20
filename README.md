@@ -1,8 +1,3 @@
-![Profile Viewers](https://komarev.com/ghpvc/?username=hridya-umesh&label=Profile%20Viewers&color=0D9488&style=flat-square)
-
-
-
-
 <h1 align="center" style="color: blue;">
   <img src="https://cdn-icons-png.flaticon.com/512/14036/14036432.png" alt="Hi Icon" width="48" height="48" style="vertical-align: middle;">
   <strong style="color: 1E90FF;">I'm HRIDYA UMESH</strong>  
@@ -22,17 +17,19 @@
 
 
  
-
-My introduction may bore you… but that’s okay! Let me clear my perspective on life.
+My introduction may bore you… but that’s okay! Let me express my philosophy of life.
 Life, to me, is more like an unpredictable and hidden pattern — vast, deep, and filled with connections we don’t always see at first glance. Just like in data, the complexity of life can seem overwhelming, but when we step back, we begin to notice rhythms, meanings, and stories hidden within the chaos.
 
 I find beauty in these patterns — in the balance between order and uncertainty, in the way small moments can shape big transformations. Beyond my passion for data and cloud, I am a seeker of meaning, always curious, always learning, and always trying to decode not just systems of information, but the intricate systems of life itself.
 
-# WELCOME.....
+Professionally, I work with Python and SQL to uncover insights, apply data visualization techniques to tell meaningful stories, and leverage Big Data tools like Apache Spark and Kafka to handle scale and complexity. My experience in AWS Cloud helps me design and deploy end-to-end pipelines that transform raw information into actionable knowledge.
 
+Oops… forgot to say!!
+
+# WELCOME
 
 ---
-<h2>Skills - Languages</h2>
+<h2>My Skills - Languages</h2>
 <table>
   <tr>
     <td align="center" width="110">
