@@ -28,7 +28,7 @@ Life, to me, is more like an unpredictable and hidden pattern — vast, deep, an
 
 I find beauty in these patterns — in the balance between order and uncertainty, in the way small moments can shape big transformations. Beyond my passion for data and cloud, I am a seeker of meaning, always curious, always learning, and always trying to decode not just systems of information, but the intricate systems of life itself.
 
-#WELCOME.....
+# WELCOME.....
 
 
 ---
