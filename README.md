@@ -226,6 +226,15 @@
       </td>
     </tr>
     <tr>
+  <td><a href="https://github.com/Hridya2001/Python-Data-Analysis" target="_blank">Python Data Analysis</a></td>
+  <td>
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square">
+    <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square">
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=flat-square">
+    <img src="https://img.shields.io/badge/Jupyter-FF6600?logo=jupyter&logoColor=white&style=flat-square">
+  </td>
+</tr>
+  <tr>
       <td><a href="https://github.com/Hridya2001/Serverless-log-analyzer-aws" target="_blank">Log Analyzer</a></td>
       <td>
         <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white&style=flat-square">
