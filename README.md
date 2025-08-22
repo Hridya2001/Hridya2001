@@ -25,8 +25,7 @@ I find beauty in these patterns, in the balance between order and uncertainty, i
 Professionally, I work with Python and SQL to uncover insights, apply data visualization techniques to tell meaningful stories, and leverage Big Data tools like Apache Spark and Kafka to handle scale and complexity. My experience in AWS Cloud helps me design and deploy end-to-end pipelines that transform raw information into actionable knowledge.
 
 Oops… forgot to say!!
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+Hridya+Umesh+GitHub!;Happy+to+see+you+here+✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+!;)](https://git.io/typing-svg)
 
 
 
