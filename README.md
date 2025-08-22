@@ -26,7 +26,8 @@ Professionally, I work with Python and SQL to uncover insights, apply data visua
 
 Oops… forgot to say!!
 
-# WELCOME
+![Welcome](https://img.shields.io/badge/Welcome-Hridya%20Umesh-00bfa6?style=for-the-badge&logo=github)
+
 
 ---
 <h2>My Skills - Languages</h2>
