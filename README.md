@@ -26,7 +26,8 @@ Professionally, I work with Python and SQL to uncover insights, apply data visua
 
 Oops… forgot to say!!
 
-[!WELCOME](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+Hridya+Umesh+GitHub!;Happy+to+see+you+here+✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+Hridya+Umesh+GitHub!;Happy+to+see+you+here+✨)](https://git.io/typing-svg)
+
 
 
 
