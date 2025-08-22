@@ -260,12 +260,22 @@ Oops… forgot to say!!
 
 ## GitHub Stats
 <table>
-<tr>
-  <td>
-    <img width="500" 
-         src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hridya2001&theme=transparent" 
-         alt="GitHub Stats"/>
-  </td>
+  <tr>
+    <td>
+      <img width="500" 
+           src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hridya2001&theme=transparent" 
+           alt="Profile Details"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img width="500" 
+           src="https://github-readme-stats.vercel.app/api?username=Hridya2001&show_icons=true&hide=prs,issues,contribs&count_private=true&theme=transparent&hide_title=true" 
+           alt="Total Stars"/>
+    </td>
+  </tr>
+</table>
+
     <td>
       <img width="400" 
            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hridya2001&layout=compact&theme=default" 
