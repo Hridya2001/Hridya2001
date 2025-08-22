@@ -20,7 +20,7 @@
 My introduction may bore you… but that’s okay! Let me express my philosophy of life.
 Life, to me, is more like an unpredictable and hidden pattern — vast, deep, and filled with connections we don’t always see at first glance. Just like in data, the complexity of life can seem overwhelming, but when we step back, we begin to notice rhythms, meanings, and stories hidden within the chaos.
 
-I find beauty in these patterns — in the balance between order and uncertainty, in the way small moments can shape big transformations. Beyond my passion for data and cloud, I am a seeker of meaning, always curious, always learning, and always trying to decode not just systems of information, but the intricate systems of life itself.
+I find beauty in these patterns, in the balance between order and uncertainty, in the way small moments can shape big transformations. Beyond my passion for data and cloud, I am a seeker of meaning, always curious, always learning, and always trying to decode not just systems of information, but the intricate systems of life itself.
 
 Professionally, I work with Python and SQL to uncover insights, apply data visualization techniques to tell meaningful stories, and leverage Big Data tools like Apache Spark and Kafka to handle scale and complexity. My experience in AWS Cloud helps me design and deploy end-to-end pipelines that transform raw information into actionable knowledge.
 
@@ -260,12 +260,12 @@ Oops… forgot to say!!
 
 ## GitHub Stats
 <table>
-  <tr>
-    <td>
-      <img width="500" 
-           src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hridya2001&theme=transparent" 
-           alt="Profile Details"/>
-    </td>
+<tr>
+  <td>
+    <img width="500" 
+         src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hridya2001&theme=transparent" 
+         alt="GitHub Stats"/>
+  </td>
     <td>
       <img width="400" 
            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hridya2001&layout=compact&theme=default" 
