@@ -186,6 +186,7 @@ Oops… forgot to say!!
         <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square">
         <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square">
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat-square">
+        <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square">
         <img src="https://img.shields.io/badge/AWS-37475a?logo=amazonaws&logoColor=white&style=flat-square">
       </td>
     </tr>
