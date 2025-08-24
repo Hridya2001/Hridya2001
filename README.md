@@ -10,9 +10,9 @@
   <a href="mailto:hridyaumesh2@gmail.com">
     <img src="https://img.shields.io/badge/Email-EB4432?logo=gmail&logoColor=white&style=for-the-badge" alt="Email Badge"/>
   </a>
-  <a href="https://hridya-umesh.netlify.app/" target="_blank">
+<!--   <a href="https://hridya-umesh.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-708090?style=for-the-badge" alt="Portfolio Badge"/>
-  </a>
+  </a> -->
 </p>
 
 
