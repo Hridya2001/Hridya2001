@@ -282,12 +282,6 @@ Oops… forgot to say!!
   </tr> 
 </table>
 
-## Streak Stats
-<div align="center">
-  <img width="450"
-       src="https://streak-stats.demolab.com?user=Hridya2001&theme=default"
-       alt="My GitHub Streak"/>
-</div>
 
 
 
