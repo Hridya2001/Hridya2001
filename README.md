@@ -1,8 +1,8 @@
-<h1 align="left" style="color: blue;">
+<h1 align="center" style="color: blue;">
   <img src="https://cdn-icons-png.flaticon.com/512/14036/14036432.png" alt="Hi Icon" width="48" height="48" style="vertical-align: middle;">
   <strong style="color: 1E90FF;">I'm HRIDYA UMESH</strong>  
 </h1>
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/hridya-umesh-860078319" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
