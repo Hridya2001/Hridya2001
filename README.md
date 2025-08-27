@@ -3,6 +3,13 @@
   <strong style="color: 1E90FF;">I'm HRIDYA UMESH</strong>  
 </h1>
 
+<a href="https://www.linkedin.com/in/hridya-umesh-860078319" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:hridyaumesh2@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>  
+
 <!--   <a href="https://hridya-umesh.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-708090?style=for-the-badge" alt="Portfolio Badge"/>
   </a> -->
@@ -256,14 +263,6 @@ Oops… forgot to say!!
 
 
 
-## Connect with me  
-
-<a href="https://www.linkedin.com/in/hridya-umesh-860078319" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:hridyaumesh2@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>  
 
 
 
