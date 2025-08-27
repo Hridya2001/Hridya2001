@@ -3,12 +3,6 @@
   <strong style="color: 1E90FF;">I'm HRIDYA UMESH</strong>  
 </h1>
 
-<a href="https://www.linkedin.com/in/hridya-umesh-860078319" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:hridyaumesh2@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>  
 
 <!--   <a href="https://hridya-umesh.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-708090?style=for-the-badge" alt="Portfolio Badge"/>
@@ -261,6 +255,19 @@ Oops… forgot to say!!
   </tbody>
 </table>
 
+## Connect with me 
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/hridya-umesh-860078319" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="mailto:hridyaumesh2@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
+  </a>
+</p>  
+
+
+**Resume:** [Download here](https://your-link.com/resume.pdf)  
 
 
 
