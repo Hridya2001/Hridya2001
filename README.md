@@ -258,12 +258,14 @@ Oops… forgot to say!!
 ## Connect with me 
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/hridya-umesh-860078319" target="_blank">
+  <p align="center">
+    <a href="https://www.linkedin.com/in/hridya-umesh-860078319" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="mailto:hridyaumesh2@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
   </a>
+ </p>
 </p>  
 
 
