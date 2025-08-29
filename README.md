@@ -26,7 +26,9 @@ I find beauty in these patterns, in the balance between order and uncertainty, i
 
 Professionally, I work with Python and SQL to uncover insights, apply data visualization techniques to tell meaningful stories, and leverage Big Data tools like Apache Spark and Kafka to handle scale and complexity. My experience in AWS Cloud helps me design and deploy end-to-end pipelines that transform raw information into actionable knowledge.
 
-Oops… forgot to say!!
+But beyond the code and the cloud, I value curiosity, creativity, and human connection. I believe every dataset has a story, and every story deserves to be heard. I am here to keep exploring, sharing, and growing — both as a professional and as a person.
+
+Forgot to say!!
 
 
 <p align="center">
