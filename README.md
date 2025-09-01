@@ -154,7 +154,7 @@ Ayyo...Forgot to say!!
 
 ## Achievements & Certificates
 
-<div align="center">
+<div align="left">
   <img src="Certificates/AWSCloudPractitionerEssentials.png" width="600" alt="AWS Cloud Practitioner Essentials"/>
 </div>
 
