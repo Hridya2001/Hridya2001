@@ -151,11 +151,14 @@ Ayyo...Forgot to say!!
 </table>
 
 ##  Certifications  
+<div align="center">
 
-- **AWS Cloud Practitioner Essentials**  
-  ![AWS Badge](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-90EE90?logo=amazon-aws&logoColor=white)  
+### Achievements/Certifications:
+- AWS cloud Practitioner Essentials
+![View Certificate](./AWS Training & Certification Completion Certificate.pdf)
 
-  [View Certificate](./AWS%20Training%20&%20Certification%20Completion%20Certificate.pdf)
+
+<div/>
 
 
 
