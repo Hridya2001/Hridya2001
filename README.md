@@ -150,12 +150,14 @@ Ayyo...Forgot to say!!
   </tr>
 </table>
 
-## Certifications  
+## Certificates
 
 <div align="center">
 
-AWS Cloud Practitioner Essentials  
-[View Certificate](Certificates/AWSCloudPractitionerEssentials.png)
+**AWS Cloud Practitioner Essentials**  
+
+[![Certificate](Certificates/AWSCloudPractitionerEssentials.png)](Certificates/AWSCloudPractitionerEssentials.png)
+
 </div>
 
 
