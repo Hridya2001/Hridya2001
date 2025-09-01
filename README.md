@@ -155,7 +155,7 @@ Ayyo...Forgot to say!!
 <div align="center">
 
 AWS Cloud Practitioner Essentials  
-[View Certificate](Hridya2001/AWS Training & Certification Completion Certificate.pd)
+[View Certificate](Certificates/AWS CloudPractitionerEssentials.png)
 </div>
 
 
