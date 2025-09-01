@@ -155,7 +155,7 @@ Ayyo...Forgot to say!!
 <div align="center">
 
 AWS Cloud Practitioner Essentials  
-[View Certificate](Certificates/AWS CloudPractitionerEssentials.png)
+[View Certificate](Certificates/AWSCloudPractitionerEssentials.png)
 </div>
 
 
