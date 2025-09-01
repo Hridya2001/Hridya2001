@@ -155,11 +155,8 @@ Ayyo...Forgot to say!!
 ## Achievements & Certificates
 
 <div align="center">
- 
-[![Certificate](Certificates/AWSCloudPractitionerEssentials.png)](Certificates/AWSCloudPractitionerEssentials.png)
-
+  <img src="Certificates/AWSCloudPractitionerEssentials.png" width="600" alt="AWS Cloud Practitioner Essentials"/>
 </div>
-
 
 
 ---
