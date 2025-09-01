@@ -153,8 +153,7 @@ Ayyo...Forgot to say!!
 ## Certificates
 
 <div align="center">
-
-**AWS Cloud Practitioner Essentials**  
+ 
 [![Certificate](Certificates/AWSCloudPractitionerEssentials.png)](Certificates/AWSCloudPractitionerEssentials.png)
 
 </div>
