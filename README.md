@@ -153,9 +153,9 @@ Ayyo...Forgot to say!!
 ## Certifications  
 
 - **AWS Certified Cloud Practitioner**  
-  ![AWS Badge](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?logo=amazon-aws&logoColor=white)  
+  ![AWS Badge](https://img.shields.io/badge/AWS-Cloud%20Practitioner-Essentials-?logo=amazon-aws&logoColor=white)  
 
-  [View Certificate](.Hridya2001/AWS Training & Certification Completion Certificate.pdf)
+  [View Certificate](.AWS Training & Certification Completion Certificate.pdf)
 
 
 
