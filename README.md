@@ -153,9 +153,9 @@ Ayyo...Forgot to say!!
 ## Certifications  
 
 <div align="center">
-### Achievements/Certifications:
+
 AWS Cloud Practitioner Essentials  
-[View Certificate](./AWS Training & Certification Completion Certificate.pdf)
+[View Certificate](Hridya2001./AWS Training & Certification Completion Certificate.pdf)
 </div>
 
 
