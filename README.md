@@ -150,12 +150,13 @@ Ayyo...Forgot to say!!
   </tr>
 </table>
 
-## Certifications  
+##  Certifications  
 
-**AWS Cloud Practitioner Essentials**  
-  ![AWS Badge](https://img.shields.io/badge/AWS-Cloud%20Practitioner-Essentials-90ee90?logo=amazon-aws&logoColor=white)  
+- **AWS Cloud Practitioner Essentials**  
+  ![AWS Badge](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-90EE90?logo=amazon-aws&logoColor=white)  
 
   [View Certificate](./AWS%20Training%20&%20Certification%20Completion%20Certificate.pdf)
+
 
 
 
