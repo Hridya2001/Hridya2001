@@ -150,6 +150,8 @@ Ayyo...Forgot to say!!
   </tr>
 </table>
 
+--- 
+
 ## Achievements & Certificates
 
 <div align="center">
@@ -160,7 +162,7 @@ Ayyo...Forgot to say!!
 
 
 
-
+---
 
 ## Projects
 
@@ -268,6 +270,10 @@ Ayyo...Forgot to say!!
     </tr>
   </tbody>
 </table>
+
+
+ ---
+
  
 ## GitHub Stats
 <table>
