@@ -28,7 +28,7 @@ Professionally, I work with Python and SQL to uncover insights, apply data visua
 
 But beyond the code and the cloud, I value curiosity, creativity, and human connection. I believe every dataset has a story, and every story deserves to be heard. I am here to keep exploring, sharing, and growing — both as a professional and as a person.
 
-Ayyo...Forgot to say!!
+oh...Forgot to say!!
 
 
 <p align="center">
