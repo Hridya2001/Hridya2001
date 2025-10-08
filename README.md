@@ -19,7 +19,6 @@
   </a> -->
 </p>
  
-My introduction might bore you… but that’s okay! Let me express my philosophy of life.
 Life, to me, is more like an unpredictable and hidden pattern — vast, deep, and filled with connections we don’t always see at first glance. Just like in data, the complexity of life can seem overwhelming, but when we step back, we begin to notice rhythms, meanings, and stories hidden within the chaos.
 
 I find beauty in these patterns, in the balance between order and uncertainty, in the way small moments can shape big transformations. Beyond my passion for data and cloud, I am a seeker of meaning, always curious, always learning, and always trying to decode not just systems of information, but the intricate systems of life itself.
